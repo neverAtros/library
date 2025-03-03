@@ -1,0 +1,22 @@
+{
+    "open_file": {
+        "args": ["C:\\Users\\Vlado\\OneDrive\\Рабочий стол\\task2\\example.txt"],
+        "restype": "_bool",
+        "iters": 1
+    },
+    "write_file": {
+        "args": ["Hello, World!\n"],
+        "restype": "_bool",
+        "iters": 1
+    },
+    "read_file": {
+        "args": ["buffer", 100],
+        "restype": "_bool",
+        "iters": 1
+    },
+    "close_file": {
+        "args": [],
+        "restype": "_bool",
+        "iters": 1
+    }
+}

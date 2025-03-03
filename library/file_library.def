@@ -1,0 +1,6 @@
+LIBRARY file_library
+EXPORTS
+    open_file
+    close_file
+    write_file
+    read_file
